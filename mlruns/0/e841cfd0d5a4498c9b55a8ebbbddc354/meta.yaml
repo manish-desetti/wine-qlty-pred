@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Manish/Desktop/new%20ml%20project%20end%20to%20end/wine-qlty-pred/mlruns/0/e841cfd0d5a4498c9b55a8ebbbddc354/artifacts
+end_time: 1712294800800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e841cfd0d5a4498c9b55a8ebbbddc354
+run_name: learned-duck-535
+run_uuid: e841cfd0d5a4498c9b55a8ebbbddc354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712294794754
+status: 3
+tags: []
+user_id: Manish

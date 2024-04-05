@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Manish/Desktop/new%20ml%20project%20end%20to%20end/wine-qlty-pred/mlruns/0/9ad305f18d9f4a9a9fab85ba7f9299e0/artifacts
+end_time: 1712294525542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ad305f18d9f4a9a9fab85ba7f9299e0
+run_name: nervous-bird-712
+run_uuid: 9ad305f18d9f4a9a9fab85ba7f9299e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712294519448
+status: 3
+tags: []
+user_id: Manish

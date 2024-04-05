@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Manish/Desktop/new%20ml%20project%20end%20to%20end/wine-qlty-pred/mlruns/0/95a5fb212af14578a03053a52436af29/artifacts
+end_time: 1712294448466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95a5fb212af14578a03053a52436af29
+run_name: shivering-snipe-555
+run_uuid: 95a5fb212af14578a03053a52436af29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712294448120
+status: 4
+tags: []
+user_id: Manish
